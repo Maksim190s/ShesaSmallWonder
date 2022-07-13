@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{15423B0F-244D-430A-B8C8-1AD4303B6D1E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShesaSmallWonder/Program.cs">
+    <Files>
+      <File FileName="ShesaSmallWonder/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShesaSmallWonder" expanded="True">
+            <Node name="ShesaSmallWonder" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ShesaSmallWonder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
